@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm Yehezkiel Gunawan, and I'm a frontend programmer. <br>
-Check out my profile web at [yehezkielgunawan123.vercel.app](https://yehezkielgunawan123.vercel.app) <br>
+Mostly I work with Javascript, Angular, and React. Check out my profile web at [yehezkielgunawan123.vercel.app](https://yehezkielgunawan123.vercel.app) <br>
 🌱 Currently learn Next JS <br>
-🔭 Currently working on my "receh" or "iseng" project <br>
+🔭 Currently working on my "receh" or fun project <br>
 ⚡ Fun fact: I dislike styling the web even I'm a frontend programmer, LOL <br>
 
 <!--
