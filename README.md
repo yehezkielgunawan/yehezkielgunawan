@@ -3,7 +3,7 @@ I'm Yehezkiel Gunawan, and I'm a frontend programmer. <br>
 Mostly I work with Javascript, Angular, and React. Check out my profile web at [yehezkielgunawan123.vercel.app](https://yehezkielgunawan123.vercel.app) <br>
 🌱 Currently learn Next JS <br>
 🔭 Currently working on my "receh" or fun project <br>
-⚡ Fun fact: I dislike styling the web even I'm a frontend programmer, LOL <br>
+⚡ I learn something by building something LOL <br>
 
 <!--
 **yehezkielgunawan/yehezkielgunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
