@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Yehezkiel Gunawan, and I'm a frontend programmer. <br>
-Mostly I work with Javascript, Angular, and React. Check out my profile web at [yehezgun](https://yehezgun.com) <br>
+Mostly I work with Typescript, Angular, and React. Check out my profile web at [yehezgun.com](https://yehezgun.com) <br>
 🌱 Currently learn React & Next JS <br>
 🔭 Currently working on my "receh" or fun project <br>
-⚡ I learn something by building something LOL <br>
+⚡ Learn by doing (actually it's trial and error, hahaha) <br>
 
 <!--
 **yehezkielgunawan/yehezkielgunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
