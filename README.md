@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Yehezkiel Gunawan, and I'm a frontend programmer. <br>
-Mostly I work with Typescript, Angular, and React. Check out my profile web at [yehezgun.com](https://yehezgun.com) <br>
-🌱 Currently learn React & Next JS <br>
+I'm Yehezkiel Gunawan, and I'm a frontend engineer. <br>
+Currently, I work with Typescript, Angular, and React. Check out my profile web at [yehezgun.com](https://yehezgun.com) <br>
+🌱 Sometimes I write blog <br>
 🔭 Currently working on my "receh" or fun project <br>
 ⚡ Learn by doing (actually it's trial and error, hahaha) <br>
 
