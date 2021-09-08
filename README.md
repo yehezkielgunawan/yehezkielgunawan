@@ -4,6 +4,7 @@ Currently, I work with Typescript, Angular, and React. Check out my profile web 
 🌱 Sometimes I write blog <br>
 🔭 Currently working on my "receh" or fun project <br>
 ⚡ Learn by doing (actually it's trial and error, hahaha) <br>
+😄 Fun Fact : I'm afraid of live coding session, but if I had to do it, I'll face it.
 
 <!--
 **yehezkielgunawan/yehezkielgunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
