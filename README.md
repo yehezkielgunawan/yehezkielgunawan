@@ -6,6 +6,10 @@ Currently, I work with Typescript, Angular, and React. Check out my profile web 
 ⚡ Learn by doing (actually it's trial and error, hahaha) <br>
 😄 Fun Fact : I'm afraid of live coding session, but if I had to do it, I'll face it.
 
+[![Yehezkiel Gunawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehezkielgunawan)](https://github.com/yehezkielgunawan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehezkielgunawan&layout=compact)](https://github.com/yehezkielgunawan)
+
 <!--
 **yehezkielgunawan/yehezkielgunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
