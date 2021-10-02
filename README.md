@@ -2,8 +2,8 @@
 I'm Yehezkiel Gunawan, and I'm a frontend engineer. <br>
 Currently, I work with Typescript, Angular, and React. Check out my profile web at [yehezgun.com](https://yehezgun.com) <br>
 🌱 Sometimes I write blog <br>
-🔭 Currently working on my "receh" or fun project <br>
-⚡ Learn by doing (actually it's trial and error, hahaha) <br>
+🔭 In my free time, I usually make some mini-project to learn or strengthen my fundamental skills (mostly web development). <br>
+⚡ Not a pro or nerd, just a curious one. <br>
 😄 Fun Fact : I'm afraid of live coding session, that's my weakness but if I had to do it, I'll face it.
 
 [![Yehezkiel Gunawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehezkielgunawan)](https://github.com/yehezkielgunawan)
