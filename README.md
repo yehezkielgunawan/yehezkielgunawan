@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Yehezkiel Gunawan, and I'm a frontend engineer. <br>
-Currently, I work with Typescript, Angular, and React. Check out my profile web at [yehezgun.com](https://yehezgun.com) <br>
+I'm Yehezkiel Gunawan, a frontend developer <br>
+Currently, I like to learn and playing with Typescript, and React. Check out my profile web at [yehezgun.com](https://yehezgun.com) <br>
 🌱 Sometimes I write blog <br>
 🔭 In my free time, I usually make some mini-project to learn or strengthen my fundamental skills (mostly web development). <br>
 ⚡ Not a pro or nerd, just a curious one. <br>
