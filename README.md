@@ -11,7 +11,7 @@ Check out my profile web at [yehezgun.com](https://yehezgun.com) <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehezkielgunawan&layout=compact)](https://github.com/yehezkielgunawan)
 
-[![Support me on Ko-fi](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5caafa137177dcc96cd6ca31_support_supportmeon.gif)](https://ko-fi.com/kaz200)
+[![Support me on Ko-fi](https://res.cloudinary.com/yehez/image/upload/v1635687121/SupportMe_blue_2x_mlehwg.png)](https://ko-fi.com/kaz200)
 
 <!--
 **yehezkielgunawan/yehezkielgunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
