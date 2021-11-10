@@ -5,7 +5,7 @@ Check out my profile web at [yehezgun.com](https://yehezgun.com) <br>
 🌱 Sometimes I write blog <br>
 🔭 In my free time, I usually make some mini-project to learn or strengthen my fundamental skills (mostly web development). <br>
 ⚡ Not a pro or nerd, just a curious one. <br>
-😄 Fun Fact : I'm afraid of live coding session, that's my weakness but if I had to do it, I'll face it.
+😄 Fun Fact : I'm afraid of live coding session, that's my weakness but if I had to do it, I'll face it. Don't expect me as a pro, I'm just a curious newbie here.
 
 [![Yehezkiel Gunawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehezkielgunawan)](https://github.com/yehezkielgunawan)
 
