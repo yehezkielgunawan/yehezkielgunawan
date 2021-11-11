@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Yehezkiel Gunawan, a frontend developer <br>
 Currently, I like to learn and playing with Typescript, and React (my current learning path and favourite tech stack). <br>
-Check out my profile web at [yehezgun.com](https://yehezgun.com) <br>
+Check out my profile web at <a href="https://yehezgun.com" target="_blank">yehezgun.com</a> <br>
 🌱 Sometimes I write blog <br>
 🔭 In my free time, I usually make some mini-project to learn or strengthen my fundamental skills (mostly web development). <br>
 ⚡ Not a pro or nerd, just a curious one. <br>
