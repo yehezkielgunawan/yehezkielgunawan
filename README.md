@@ -9,7 +9,7 @@ Check out my profile web at <a href="https://yehezgun.com" target="_blank">yehez
 
 [![Yehezkiel Gunawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehezkielgunawan&show_icons=true&theme=dracula)](https://github.com/yehezkielgunawan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehezkielgunawan&layout=compact)](https://github.com/yehezkielgunawan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehezkielgunawan&layout=compact&theme=dracula)](https://github.com/yehezkielgunawan)
 
 <a href="https://ko-fi.com/kaz200" target="_blank">
 <img src="https://res.cloudinary.com/yehez/image/upload/v1635687121/SupportMe_blue_2x_mlehwg.png" alt="drawing" width="200"/>
