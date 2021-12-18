@@ -5,7 +5,7 @@ Check out my profile web at <a href="https://yehezgun.com" target="_blank">yehez
 🌱 Sometimes I write blog <br>
 🔭 In my free time, I usually make some mini-project to learn or strengthen my fundamental skills (mostly web development). <br>
 ⚡ Not a pro or nerd, just a curious one. <br>
-😄 Fun Fact : I'm afraid of live coding session, that's my weakness but if I had to do it, I'll face it. Don't expect me as a pro, I'm just a curious newbie here.
+😄 Fun Fact : I'm afraid of live coding session, that's my weakness but if I had to do it, I'll face it. Don't expect me as a pro, I'm just a curious newbie here. And yeah I struggled a lot with Native CSS even I work as a frontend engineer.
 
 [![Yehezkiel Gunawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehezkielgunawan&show_icons=true&theme=dracula)](https://github.com/yehezkielgunawan)
 
