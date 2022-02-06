@@ -5,7 +5,7 @@ Check out my profile web at <a href="https://yehezgun.com" target="_blank">yehez
 🌱 Sometimes I write a blog <br>
 🔭 In my free time, I usually make some mini-project to learn or strengthen my fundamental skills (mostly web development). <br>
 ⚡ Not a pro or nerd, just a curious one. <br>
-😄 Fun Fact: I'm afraid of a live coding session, that's my weakness but if I had to do it, I'll face it. Don't expect me as a pro, I'm just a curious newbie here. And yeah I struggled a lot with Native CSS even I work as a frontend engineer.
+😄 Fun Fact: I'm afraid (and have a little trauma of it) of a live coding session, that's my weakness but if I had to do it, I'll face it. Don't expect me as a pro, I'm just a curious newbie here. And yeah I struggled a lot with Native CSS even I work as a frontend engineer.
 
 ## Favourite Tech Stack
 > ![](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
