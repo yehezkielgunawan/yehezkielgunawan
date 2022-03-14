@@ -1,24 +1,34 @@
-### Hi there 👋
-I'm Yehezkiel Gunawan, a frontend developer <br>
-Currently, I like to learn and play with Typescript and React (my current learning path and favorite tech stack). <br>
-Check out my profile web at <a href="https://yehezgun.com" target="_blank">yehezgun.com</a> <br>
-🌱 Sometimes I write a blog <br>
-🔭 In my free time, I usually make some mini-project to learn or strengthen my fundamental skills (mostly web development). <br>
-⚡ Not a pro or nerd, just a curious one. <br>
-😄 Fun Fact: I'm afraid _(and have a little trauma of it)_ of a live coding session, that's my weakness but if I had to do it, I'll face it. Don't expect me as a pro, I'm just a curious newbie here. And yeah I struggled a lot with Native CSS even I work as a frontend engineer.
+<h1 align="center">Hi 👋, I'm Yehezkiel Gunawan</h1>
+<h3 align="center">A Frontend Engineer who still struggled to center the web element.</h3>
 
-## Favourite Tech Stack
-> ![](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-> ![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-> ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-   ![](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-   ![](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-   ![](https://img.shields.io/badge/Next_JS-grey?style=for-the-badge&logo=Next.js&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yehezkielgunawan&label=Profile%20views&color=0e75b6&style=flat" alt="yehezkielgunawan" /> </p>
+
+<p align="left"> <a href="https://twitter.com/yehezgun" target="blank"><img src="https://img.shields.io/twitter/follow/yehezgun?logo=twitter&style=for-the-badge" alt="yehezgun" /></a> </p>
+
+- 🌱 I’m currently learning **React, Next.js, Tailwind CSS, and some BaaS**
+
+- 👨‍💻 All of my projects are available at [https://yehezgun.com](https://yehezgun.com)
+
+- 📝 I regularly write articles on [https://yehezgun.com/articles](https://yehezgun.com/articles)
+
+- 📫 How to reach me **yehezkiel.gunawan28@gmail.com**
+
+- ⚡ Fun fact **I'm afraid (and have a little trauma of it) of a live coding session, that's my weakness but if I had to do it, I'll face it. Don't expect me as a pro, I'm just a curious newbie here. And yeah I struggled a lot with Native CSS even I work as a frontend engineer, LOL.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/yehezkielgunawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yehezkielgunawan" height="30" width="40" /></a>
+<a href="https://twitter.com/yehezgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yehezgun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yehezkiel-gunawan-595128138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehezkiel-gunawan-595128138" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/kaz200"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kaz200" /></a></p><br><br>
+
 
 [![Yehezkiel Gunawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehezkielgunawan&show_icons=true&theme=dracula)](https://github.com/yehezkielgunawan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehezkielgunawan&layout=compact&theme=dracula)](https://github.com/yehezkielgunawan)
-
-<a href="https://ko-fi.com/kaz200" target="_blank">
-<img src="https://res.cloudinary.com/yehez/image/upload/v1635687121/SupportMe_blue_2x_mlehwg.png" alt="drawing" width="200"/>
-</a>
