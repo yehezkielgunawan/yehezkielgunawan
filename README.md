@@ -28,7 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/kaz200"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kaz200" /></a></p><br><br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yehezkielgunawan&show_icons=true&theme=dark&locale=en&layout=compact" alt="yehezkielgunawan" /></p>
 
-[![Yehezkiel Gunawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehezkielgunawan&show_icons=true&theme=dracula)](https://github.com/yehezkielgunawan)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yehezkielgunawan&show_icons=true&theme=dark&locale=en" alt="yehezkielgunawan" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehezkielgunawan&layout=compact&theme=dracula)](https://github.com/yehezkielgunawan)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yehezkielgunawan&theme=dark" alt="yehezkielgunawan" /></p>
