@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yehezkiel Gunawan</h1>
 <h3 align="center">A Frontend Engineer who still struggled to center the web element.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yehezkielgunawan&label=Profile%20views&color=0e75b6&style=flat" alt="yehezkielgunawan" /> </p>
-
 <p align="left"> <a href="https://twitter.com/yehezgun" target="blank"><img src="https://img.shields.io/twitter/follow/yehezgun?logo=twitter&style=for-the-badge" alt="yehezgun" /></a> </p>
 
 - 🌱 I’m currently learning **React, Next.js, Tailwind CSS, and some BaaS**
