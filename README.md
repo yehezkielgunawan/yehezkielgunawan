@@ -25,6 +25,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/yehezgun"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yehezgun" /></a></p><br><br>
+<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/yehezgun','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yehezkielgunawan&show_icons=true&theme=dark&locale=en&layout=compact" alt="yehezkielgunawan" /></p>
 
