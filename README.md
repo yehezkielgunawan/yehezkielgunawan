@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yehezgun" target="blank"><img src="https://img.shields.io/twitter/follow/yehezgun?logo=twitter&style=for-the-badge" alt="yehezgun" /></a> </p>
 
-- 🌱 I’m currently learning **React, Next.js, Tailwind CSS, and some BaaS**
+- 🌱 I’m currently learning **React, Next.js, Tailwind CSS, and backend (through Golang)**
 
 - 👨‍💻 All of my projects are available at [https://yehezgun.com](https://yehezgun.com)
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/yehezgun"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yehezgun" /></a></p><br><br>
-<a href="https://trakteer.id/yehezgun" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a><br>
+<a href="https://trakteer.id/yehezgun" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yehezkielgunawan&show_icons=true&theme=dark&locale=en&layout=compact" alt="yehezkielgunawan" /></p>
 
