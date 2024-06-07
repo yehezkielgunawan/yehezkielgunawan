@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yehezgun" target="blank"><img src="https://img.shields.io/twitter/follow/yehezgun?logo=twitter&style=for-the-badge" alt="yehezgun" /></a> </p>
 
-- 🌱 I’m currently learning **Astro and Rust(still learning the concept)**
+- 🌱 I’m currently learning **Svelte**
 
 - 👨‍💻 All of my projects are available at [https://yehezgun.com](https://yehezgun.com)
 
