@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yehezgun.com](https://yehezgun.com)
 
-- 📝 I regularly write articles on [https://yehezgun.com/articles](https://yehezgun.com/blog)
+- 📝 I regularly write articles on [https://yehezgun.com/blog](https://yehezgun.com/blog)
 
 - 📫 How to reach me **yehezkiel.gunawan28@gmail.com**
 
