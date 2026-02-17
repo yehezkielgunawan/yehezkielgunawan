@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://yehezgun.com/blog](https://yehezgun.com/blog)
 
-- 📫 How to reach me **yehezkiel.gunawan28@gmail.com**
+- 📫 How to reach me **yehezkiel.gunawan@yehezgun.com**
 
 - ⚡ Fun fact **I'm afraid (and have a little trauma of it) of a live coding session, that's my weakness but if I had to do it, I'll face it. Don't expect me as a pro, I'm just a curious newbie here. And yeah I struggled a lot with Native CSS even I work as a frontend engineer, LOL.**
 
